@@ -96,6 +96,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 ### Data Science Application
 #### Information Retrieval
 * [Introduction to Information Retrival](http://nlp.stanford.edu/IR-book/) - Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze - `Intermediate`
+* ["Doing Data Science"](https://books.google.com.tr/books?id=ycNKAQAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) -Cathy O'Neil , Rachel Schutt - `Intermediate`
 
 #### Data Visualization
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
